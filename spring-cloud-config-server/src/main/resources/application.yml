@@ -8,4 +8,4 @@ spring:
       server:
         git:
           uri: https://github.com/sriramvenkat83/spring-cloud-training/
-          search-paths: spring-cloud-config-repo
+          search-paths: spring-cloud-repository
