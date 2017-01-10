@@ -1,4 +1,4 @@
-package com.training.work;
+package com.training.work.service;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

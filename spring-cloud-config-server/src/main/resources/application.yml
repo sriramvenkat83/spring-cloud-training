@@ -1,0 +1,11 @@
+server:
+  context-path: /spring-cloud-config-server
+  port: 8085
+
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/sriramvenkat83/spring-cloud-training/
+          search-paths: spring-cloud-config-repo
