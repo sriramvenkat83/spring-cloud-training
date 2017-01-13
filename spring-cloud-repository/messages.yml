@@ -1,17 +1,5 @@
 ---
-spring:
-  profiles: development
-messages:
-  welcomeMsg: You've been directed to Development Env
 
----
-spring:
-  profiles: staging
 messages:
-  welcomeMsg: You've been directed to Staging Env
-
----
-spring:
-  profiles: production
-messages:
-  welcomeMsg: You've been directed to Production Env
+  environment: development
+  greeting: You've been directed to Development Env
