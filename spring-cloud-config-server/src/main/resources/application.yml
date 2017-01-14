@@ -1,5 +1,5 @@
 server:
-  context-path: /spring-cloud-config-server
+  #context-path: /spring-cloud-config-server
   port: 8085
 
 spring:

@@ -1,0 +1,5 @@
+---
+applications:
+- name: messenger-cloud-app
+  memory: 256M
+  host: messenger83
